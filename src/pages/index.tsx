@@ -30,7 +30,7 @@ export default function Home() {
 
       <div className={styles.content3}>
         <div>
-          <Image src={img3} alt='acessoria' layout='responsive' />
+          <Image src={img2} alt='acessoria' layout='responsive' />
         </div>
         <div>
           <Image src={img4} alt='acessoria' layout='responsive' />
